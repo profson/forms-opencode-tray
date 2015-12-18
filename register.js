@@ -52,6 +52,7 @@ jQuery('#pj_data_nascimento').attr('placeholder', 'Nascimento');
 /* --- CPF / CNPJ FISICA-JURIDICA */
 jQuery('#pf_cpf_cliente').attr('placeholder', 'CPF');
 jQuery('#pj_cpf_cliente').attr('placeholder', 'CPF');
+jQuery('#pf_rg_cliente').attr('placeholder', 'RG');
 jQuery('#cnpj').attr('placeholder', 'CNPJ');
 /* End -------------------------------- */
 
